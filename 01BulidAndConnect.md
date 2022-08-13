@@ -1,3 +1,11 @@
+<!--
+ * @FileName: 01BulidAndConnect.md
+ * @Author: Alen luojiaming299@163.com
+ * @CreateTime: 2022-08-11 22:53:42
+ * @LastEditTime: 2022-08-13 08:29:00
+ * Copyright (c) 2022 by Alen, All Rights Reserved. 
+-->
+
 # 安装 git
 ```bash
 $ sudo apt-get install git
